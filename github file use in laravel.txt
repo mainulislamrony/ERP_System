@@ -1,0 +1,28 @@
+git file use
+
+
+1.git init
+
+1.git clone githubfile
+
+2.cp .env.example .env
+
+3.php artisan key:generate
+
+4.php artisan migrate:fresh --seed
+
+
+
+Git upload
+
+1.git status
+2.git add .
+3.git committ -m""
+4.git push main branch
+
+Git upload
+
+1.git status
+2.git add .
+3.git committ ""
+4.git pull main branch
